@@ -38,12 +38,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/taiwanbigdata/secretsync.git"
+    "url": "https://github.com/taiwanbigdata/secret-sync.git"
   },
   "bugs": {
-    "url": "https://github.com/taiwanbigdata/secretsync/issues"
+    "url": "https://github.com/taiwanbigdata/secret-sync/issues"
   },
-  "homepage": "https://github.com/taiwanbigdata/secretsync#readme",
+  "homepage": "https://github.com/taiwanbigdata/secret-sync#readme",
   "dependencies": {
     "chalk": "^5.4.1",
     "commander": "^12.1.0"

@@ -224,8 +224,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ```bash
 # Clone the repository
-git clone https://github.com/TaiwanBigdata/SecretSync.git
-cd SecretSync
+git clone https://github.com/taiwanbigdata/secret-sync.git
+cd secret-sync
 
 # Install dependencies
 npm install
@@ -296,7 +296,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🏢 About Taiwan Bigdata Inc.
 
-SecretSync is developed and maintained by [Taiwan Bigdata Inc. (TBI)](https://github.com/TaiwanBigdata), a leading data analytics and software development company specializing in modern web technologies and data-driven solutions.
+SecretSync is developed and maintained by [Taiwan Bigdata Inc. (TBI)](https://github.com/taiwanbigdata), a leading data analytics and software development company specializing in modern web technologies and data-driven solutions.
 
 ---
 
