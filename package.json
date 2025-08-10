@@ -1,0 +1,53 @@
+{
+  "name": "@taiwanbigdata/secret-sync",
+  "version": "1.0.0",
+  "description": "🔐 Universal environment variables synchronization tool for modern web projects",
+  "main": "src/index.js",
+  "bin": {
+    "secret-sync": "./bin/secret-sync.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node bin/secret-sync.js",
+    "lint": "echo \"Linting...\"",
+    "build": "echo \"Build complete\""
+  },
+  "keywords": [
+    "environment-variables",
+    "vercel",
+    "netlify",
+    "env-sync",
+    "deployment",
+    "devops",
+    "cli"
+  ],
+  "author": "Taiwan Bigdata Inc. (TBI)",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "src/",
+    "templates/",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taiwanbigdata/secretsync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taiwanbigdata/secretsync/issues"
+  },
+  "homepage": "https://github.com/taiwanbigdata/secretsync#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^12.1.0"
+  },
+  "devDependencies": {},
+  "preferGlobal": true
+}
